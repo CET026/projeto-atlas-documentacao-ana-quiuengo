@@ -13,5 +13,5 @@ Criar documentação clara e organizada, com regras de validação e rastreabili
 
 ## Critérios de sucesso
 - Estrutura estável
-   - Revisão antes de integração
-   - Registo consistente de decisões
+- Revisão antes de integração
+- Registo consistente de decisões
